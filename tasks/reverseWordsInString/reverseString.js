@@ -12,6 +12,4 @@ const joined = splittedArray.join(" ");
 return joined
 
 }
-   
-reverseString("Dupa ma psa kota dupa")
-  module.exports = reverseString;
+     module.exports = reverseString;
